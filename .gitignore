@@ -1,0 +1,10 @@
+target/
+node_modules/
+dist/
+dist-ssr/
+.idea/
+*.iml
+.vscode/
+*.log
+.env
+.env.local
